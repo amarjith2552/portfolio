@@ -1,0 +1,12 @@
+.vl {
+    border-left: 1px solid gray;
+    height: 620px;
+    padding-right: 0px;
+  }
+  .hi:hover{
+    transform: scale(1.2);
+  }
+  .hii:hover{
+    transform: scale(1.1);
+  }
+  
